@@ -1,3 +1,2 @@
 # CNN
-implementation of CNN on multiple datasets
-1
+Implementation of CNN on multiple datasets
